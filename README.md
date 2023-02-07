@@ -6,4 +6,4 @@ This project is available to pull from github at any time provided we lose the l
 
 We have now also added docker to push our application to a docker container. In addition, we have automated our workflow with github actions 
 
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/justinwylie033/sem/actions/workflows/main.yml/badge.svg)
