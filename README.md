@@ -13,4 +13,4 @@ We have now also added docker to push our application to a docker container. In 
 [![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/justinwylie033/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/justinwylie033/sem/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/justinwylie033/sem/<action name taken from main.yml>/develop?style=flat-square)
